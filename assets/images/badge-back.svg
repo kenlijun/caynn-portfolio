@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1125" viewBox="0 0 800 1125">
+  <rect width="800" height="1125" fill="#111113"/>
+  <rect x="44" y="44" width="712" height="1037" rx="38" fill="none" stroke="#d0e65a" stroke-width="2" opacity=".62"/>
+  <text x="92" y="130" fill="#d0e65a" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="22" font-weight="700" letter-spacing="5">ABOUT / CAYNN CHEN</text>
+  <text x="92" y="260" fill="#f3f2ef" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="70" font-weight="800" letter-spacing="-3">VISUAL</text>
+  <text x="92" y="335" fill="#d0e65a" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="70" font-weight="800" letter-spacing="-3">DESIGNER.</text>
+  <line x1="92" y1="392" x2="708" y2="392" stroke="#f3f2ef" stroke-width="2" opacity=".2"/>
+  <text x="92" y="460" fill="#f3f2ef" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="27" font-weight="700">品牌视觉、动态设计与数字内容创作</text>
+  <text x="92" y="520" fill="#a7a7a2" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="22">在清晰策略与有辨识度的表达之间，</text>
+  <text x="92" y="556" fill="#a7a7a2" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="22">找到恰到好处的平衡。</text>
+  <g font-family="Arial, 'Microsoft YaHei', sans-serif">
+    <text x="92" y="670" fill="#d0e65a" font-size="50" font-weight="800">3+</text>
+    <text x="92" y="704" fill="#a7a7a2" font-size="17" letter-spacing="2">YEARS OF EXPERIENCE</text>
+    <text x="350" y="670" fill="#d0e65a" font-size="50" font-weight="800">30+</text>
+    <text x="350" y="704" fill="#a7a7a2" font-size="17" letter-spacing="2">BRANDS &amp; CAMPAIGNS</text>
+    <text x="650" y="670" fill="#d0e65a" font-size="50" font-weight="800" text-anchor="end">25</text>
+    <text x="650" y="704" fill="#a7a7a2" font-size="17" letter-spacing="2" text-anchor="end">AGE</text>
+  </g>
+  <line x1="92" y1="775" x2="708" y2="775" stroke="#f3f2ef" stroke-width="2" opacity=".2"/>
+  <text x="92" y="845" fill="#a7a7a2" font-family="Arial, sans-serif" font-size="17" letter-spacing="3">CONTACT</text>
+  <text x="92" y="902" fill="#f3f2ef" font-family="Arial, sans-serif" font-size="25">chen2401@qq.com</text>
+  <text x="92" y="950" fill="#f3f2ef" font-family="Arial, sans-serif" font-size="25">138 2289 6962</text>
+  <text x="708" y="1022" fill="#d0e65a" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="end" letter-spacing="4">PORTFOLIO / 2026</text>
+</svg>
